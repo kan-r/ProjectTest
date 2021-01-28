@@ -2,5 +2,6 @@
 
 ## git init
 ## git status
-## git add .
-## git commit -m 'initial commit'
+## git add <. | file name>
+## git commit -m <message>
+## git branch -b <branch name>
