@@ -4,4 +4,6 @@
 ## git status
 ## git add <. | file name>
 ## git commit -m <message>
-## git branch -b <branch name>
+## git checkout -b <branch name>
+## git pull
+  
