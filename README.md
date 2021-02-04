@@ -6,5 +6,5 @@
 ## git commit -m <message>
 ## git checkout -b <branch-name>
 ## git pull
-## git merge <branch-name>
+### git merge <branch-name>
 
