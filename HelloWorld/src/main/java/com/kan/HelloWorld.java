@@ -2,7 +2,6 @@ package com.kan;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        printMsg("Hello World!");
         printMsg("Hello Kan Ranganathan!");
         printMsg("How are you?");
     }
