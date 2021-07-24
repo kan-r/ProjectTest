@@ -3,7 +3,7 @@ package com.kan;
 public class HelloWorld {
 
     public static final String HELLO_KAN = "Hello Kan Ranganathan!";
-    public static final String WELCOME = "Welcome";
+    public static final String WELCOME = "Welcome Kan";
 
     public static void main(String[] args) {
         printMsg(HELLO_KAN);
